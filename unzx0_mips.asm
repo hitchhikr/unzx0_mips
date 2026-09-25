@@ -5,6 +5,7 @@
 ; ----------------
 ; this version for naken_asm
 ; Mainly made for ASM programmers. Would need some work to include in C code.
+; (you may want to flush the processor caches after decompressing data).
 
             .ps2_ee
 ; $a0 = source

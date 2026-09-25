@@ -5,6 +5,7 @@
 # ----------------
 # this version for GNU as
 # Mainly made for ASM programmers. Would need some work to include in C code.
+# (you may want to flush the processor caches after decompressing data).
 
             .text
             .p2align    3
